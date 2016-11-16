@@ -1,0 +1,41 @@
+Australian Cities
+sydney	
+melbourne	
+brisbane	
+perth	
+adelaide	
+gold coast 
+newcastle 
+canberra 
+central Coast	
+sunshine Coast	
+wollongong	
+hobart		
+geelong		
+townsville	
+cairns		
+darwin	
+toowoomba	
+ballarat	
+bendigo		
+albury 
+launceston	
+mackay	
+rockhampton	
+bunbury	
+bundaberg	
+coffs harbour	
+wagga wagga	
+melton	
+hervey bay	
+mildura 
+shepparton 
+gladstone
+port macquarie	
+tamworth	
+traralgon 
+orange	
+geraldton	
+bowral 
+ellenbrook	
+Dubbo	

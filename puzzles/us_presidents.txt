@@ -1,0 +1,48 @@
+U.S. Presidents
+george washington	
+john adams		
+thomas jefferson	
+james madison	
+james monroe	
+john quincy adams	
+andrew jackson
+martin van buren	
+william h. harrison	
+john tyler			
+james k. polk	
+zachary taylor	
+millard fillmore	
+franklin pierce	
+james buchanan	
+abraham lincoln	
+andrew johnson	
+ulysses s. grant	
+rutherford b. hayes	
+james a. garfield	
+chester A. arthur	
+grover cleveland	
+benjamin harrison	
+william mcKinley	
+theodore roosevelt	
+william howard taft	
+woodrow wilson	
+warren g. harding	
+calvin coolidge	
+herbert hoover	
+franklin d. roosevelt	
+harry s. truman	
+dwight d. eisenhower	
+john f. kennedy	
+lyndon b. johnson	
+richard m. nixon	
+gerald r. ford	
+james earl carter	
+ronald reagan	
+george bush	
+william j. clinton	
+george w. bush	
+barack h. obama
+
+
+
+

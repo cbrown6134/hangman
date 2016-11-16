@@ -1,0 +1,25 @@
+Colors
+pink 
+red 
+orange 
+yellow 
+brown 
+green 
+cyan 
+blue 
+indigo 
+purple 
+violet 
+magenta 
+white 
+gray 
+black
+gold
+cobalt blue
+aquamarine
+teal
+emerald
+salmon
+tan
+crimson
+maroon
